@@ -1,0 +1,1 @@
+SunLand Otel Otomasyonu Bu proje, C# ve SQL Server kullanılarak geliştirilmiş bir otel yönetim sistemidir. Özellikler: Müşteri kaydı, oda yönetimi, ödeme takibi ve personel yönetimi. Kurulum: SunLandOtel.slnx dosyasını Visual Studio ile açıp çalıştırabilirsiniz.
